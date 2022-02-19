@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_basics",
+  "version": "1.0.0",
+  "description": "Simple exercise to create a server with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sglauber/nodejs_basics.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "basics"
+  ],
+  "author": "Glauber Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sglauber/nodejs_basics/issues"
+  },
+  "homepage": "https://github.com/sglauber/nodejs_basics#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2"
+  }
+}
